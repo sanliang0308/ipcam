@@ -232,7 +232,7 @@ public class rtsp_sg {
 
 		blackListArray = new ArrayList<String>();
 
-		File file = new File("rtsp_nodb.list");
+		File file = new File("rtsp_sg.list");
 
 		try {
 
